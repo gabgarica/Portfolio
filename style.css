@@ -1,0 +1,59 @@
+/* CSS files add styling rules to your content */
+
+.web copy.jpg {
+  height: 200px;
+  background: #aaa;
+}
+
+.fakeimg {
+  height: 400px;
+  background: #aaa;
+}
+jumbtron {
+  background-color: black;
+  color: purple
+}
+
+img {
+  max-width: 80%;
+  height: auto;
+} 
+
+.jumbtron {
+  background-color: rgb(255, 255, 255);
+  color: rgb(114, 43, 43);
+}
+
+navbar {
+  background-color: rgb(154, 103, 22) !important;
+} 
+
+/* h1 {
+  background-color: rgb(255, 255, 255);
+} */
+
+.jumbotron{  
+  padding: 5%;
+}
+.jumbotron img {
+  opacity: 0.3;
+  position: absolute;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+  
+}
+.jumbotron .container {
+  padding: 15px;
+}
+
+
+
+
+
+
+
+
+
+
